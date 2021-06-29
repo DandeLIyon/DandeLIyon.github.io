@@ -28,7 +28,6 @@ Pygments==2.7.1
 pylint==2.6.0
 PyMySQL==0.10.0
 pypiwin32==223
-pywin32==228
 requests==2.24.0
 sh==1.14.0
 six==1.15.0
